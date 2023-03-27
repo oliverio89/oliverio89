@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 # ¡Alohomora! Soy Víctor 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web que ama todo lo relacionado con Harry Potter 🧙‍♂️⚡️. Me encanta construir cosas increíbles con código y siempre estoy buscando nuevas formas de aprender y mejorar.
