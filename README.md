@@ -8,7 +8,7 @@
 
 ## 🔮 Mis habilidades
 
-![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Otras habilidades relevantes](https://img.shields.io/badge/Otras%20Habilidades%20Relevantes-Agregar%20aquí-informational?style=flat-square)
@@ -35,3 +35,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverio89)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliverio89&show_icons=true&theme=radical)
