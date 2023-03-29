@@ -1,5 +1,7 @@
 # <center> ¡Alohomora! Soy Víctor 👋 </center>
 
+![Víctor Moreno](https://user-images.githubusercontent.com/115175561/228508158-3cb9b5c2-2ba3-4029-a7e7-ab4bfbce3913.png)
+
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web que ama todo lo relacionado con Harry Potter 🧙‍♂️⚡️. Me encanta construir cosas increíbles con código y siempre estoy buscando nuevas formas de aprender y mejorar.
 
 ## 🔮 Mis habilidades
