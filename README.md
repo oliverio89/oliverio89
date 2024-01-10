@@ -1,6 +1,6 @@
 # <center> ¡Alohomora! Soy Víctor 👋 </center>
 
-![Banner actu](https://user-images.githubusercontent.com/115175561/229772629-45e4c4ad-9e4e-4336-8af9-a681a6e159ab.png)
+![Banner actu]([https://user-images.githubusercontent.com/115175561/229772629-45e4c4ad-9e4e-4336-8af9-a681a6e159ab.png](https://github.com/oliverio89/oliverio89/assets/115175561/e12c37ce-0e5a-4954-85b8-de1f304aeaf9))
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web que ama todo lo relacionado con Harry Potter 🧙‍♂️⚡️. Me encanta construir cosas increíbles con código y siempre estoy buscando nuevas formas de aprender y mejorar.
 
