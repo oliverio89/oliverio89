@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/victor-wdfs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-daganzo-fraile/" height="30" width="40" /></a>
 
 - oliverio89@gmail.com
-- "En construcción"
+- http://victordev20.com
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o simplemente quieres hablar de Harry Potter, ¡no dudes en contactarme! ¡Que tengas un día mágico! 🧙‍♀️🔮
 
